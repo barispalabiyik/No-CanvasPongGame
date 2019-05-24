@@ -1,0 +1,22 @@
+body{
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+html {
+    background-color: rgb(172, 169, 233);
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.scores{
+    text-align: unset;
+    
+}
+#skor{
+    color: rgb(235, 219, 81);
+}
+#skor2{
+    color: rgb(226, 66, 26);
+}
